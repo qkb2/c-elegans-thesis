@@ -1,0 +1,46 @@
+absl-py==2.3.1
+certifi==2026.7.22
+cffi==1.17.1
+charset-normalizer==3.5.1
+cloudpickle==3.1.2
+cryptography==47.0.0
+Cython==0.29.37
+fasteners==0.20
+glfw==2.10.2
+google-auth==2.50.0
+google-auth-oauthlib==1.0.0
+grpcio==1.70.0
+gym==0.22.0
+gym-notices==0.1.0
+-e git+https://github.com/zhongyuchen/gym-worm.git@a462d5664be93e9a197806b703ec4cf9ca26fd19#egg=gym_worm
+idna==3.15
+imageio==2.35.1
+importlib_metadata==8.5.0
+lxml==6.1.2
+Markdown==3.7
+MarkupSafe==2.1.5
+mujoco-py==2.0.2.13
+numpy==1.24.4
+oauthlib==3.3.1
+pandas==2.0.3
+pillow==10.4.0
+protobuf==5.29.6
+pyasn1==0.6.4
+pyasn1_modules==0.4.2
+pycparser==2.23
+python-dateutil==2.9.0.post0
+pytz==2026.3.post1
+requests==2.32.4
+requests-oauthlib==2.0.0
+six==1.17.0
+tensorboard==2.14.0
+tensorboard-data-server==0.7.2
+torch==1.8.0
+tqdm==4.70.0
+typing_extensions==4.13.2
+tzdata==2026.3
+urllib3==2.2.3
+-e git+https://github.com/zhongyuchen/digital-twin-c-elegans.git@4329446fce12e37a26a1bbdda11e1cb0c0982101#egg=virtual_nematode
+Werkzeug==3.0.6
+-e git+https://github.com/zhongyuchen/worm-assets.git@3b366adbca53b02bc3d3c5995fa4b12c629bcee8#egg=worm_assets
+zipp==3.20.2
